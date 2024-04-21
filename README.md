@@ -1,12 +1,13 @@
 # bacteria-reborn
+Bacteria was a mini game from the web game Chapatiz also known as Chimboz I want to recreate the experience on smartphone and this is where it begins.
 
 Bacteria rules:
 
-- Tour par tour
-- 30 secondes pour jouer
-- bruit a chaque nouveau blob
-- Se reproduire à une tout autour collé (un carré)
-- Faire un saut pour et ne pas se reproduire uniquement sur ligne droite de 1
-- Mange toutes les bacteries se trouvant dans un carré de 8 autour de la nouvelle bactérie
-- décider du nombre de bactérie initial et du nombre de trou
-- map symétrique de 8*8
+- Turn based game
+- 30 seconds to play
+- Sounds on each move
+- Create an extra bacteria if you move to 1 close place around the bacteria
+- Bacteria can move to an extra place to 2 square 
+- Eat all bacteria around the new or moved bacteria from opposite side
+- Map is symmetrical and 8*8 size
+- There are differents map layout with empty place where you cannot move bacteria
